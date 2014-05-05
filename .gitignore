@@ -1,0 +1,11 @@
+.DS_Store
+/.svn
+/**/.settings
+/**/target
+/**/.project
+/**/.classpath
+/**/.checkstyle
+*.log
+*.log.*
+*.bak
+*.class
